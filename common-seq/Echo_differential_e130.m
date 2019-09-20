@@ -1,4 +1,7 @@
-%%
+%% Intro
+% Script for analyzing echo data, based on Eric's version of echo_20-40-20, where measurements
+% are bright, echo (20-40-20), dark, echo (20-40-60). 
+%
 % This version divides the differential echo data by the intrinsic noise of
 % the NV (spin bath, resonances, etc.) so that the only decoherence is from
 % the added noise. 
